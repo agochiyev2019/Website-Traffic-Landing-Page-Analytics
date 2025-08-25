@@ -39,6 +39,4 @@ Data Analysis & Visualization → PDF report summarizing insights.
 📂 Project Files
 Ecommerce_Analysis.sql → SQL queries for traffic, conversion, bid optimization, and landing page analysis.
 Website_Traffic_Analytics.pdf → Final report with business insights & recommendations.
-👤 Author
-Anar Gochiyev
 LinkedIn: www.linkedin.com/in/anar-gochiyev
